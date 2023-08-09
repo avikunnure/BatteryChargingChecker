@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChargerChecking/bin/Debug/net6.0-windows
+/ChargerChecking/bin/Release/net6.0-windows
+/ChargerChecking/obj/Debug/net6.0-windows
+/ChargerChecking/obj
+/.vs
